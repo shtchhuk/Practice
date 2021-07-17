@@ -1,0 +1,13 @@
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\bin\Debug\netcoreapp3.1\Basic.Net.exe
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\bin\Debug\netcoreapp3.1\Basic.Net.deps.json
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\bin\Debug\netcoreapp3.1\Basic.Net.runtimeconfig.json
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\bin\Debug\netcoreapp3.1\Basic.Net.runtimeconfig.dev.json
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\bin\Debug\netcoreapp3.1\Basic.Net.dll
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\bin\Debug\netcoreapp3.1\Basic.Net.pdb
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\obj\Debug\netcoreapp3.1\Basic.Net.csprojAssemblyReference.cache
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\obj\Debug\netcoreapp3.1\Basic.Net.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\obj\Debug\netcoreapp3.1\Basic.Net.AssemblyInfo.cs
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\obj\Debug\netcoreapp3.1\Basic.Net.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\obj\Debug\netcoreapp3.1\Basic.Net.dll
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\obj\Debug\netcoreapp3.1\Basic.Net.pdb
+C:\Users\a\Desktop\practicing\Basic.Net\Basic.Net\obj\Debug\netcoreapp3.1\Basic.Net.genruntimeconfig.cache
